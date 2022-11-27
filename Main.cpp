@@ -12,7 +12,7 @@ int main()
 
 	cout << Polynomial::NOD(p, p2).ToString();
 
-	cin.get();
+	//cin.get();
 
 	return 0;
 }
