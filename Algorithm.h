@@ -1,0 +1,1 @@
+int NOD(int a, int b);
