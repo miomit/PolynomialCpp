@@ -10,7 +10,7 @@ int main()
 
 	cout << p.ToString() << endl << p2.ToString() << endl << endl;
 
-	cout << Polynomial::NOD(p, p2).ToString();
+	cout << Polynomial::NOD(p, p2).ToString() << endl;
 
 	//cin.get();
 
