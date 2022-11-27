@@ -1,6 +1,6 @@
 # PolynomialCpp
 
-Cборка и запуск для linux
+CР±РѕСЂРєР° Рё Р·Р°РїСѓСЃРє РґР»СЏ linux
 
 ```
 git clone https://github.com/yuraMovsesyan/PolynomialCpp.git
